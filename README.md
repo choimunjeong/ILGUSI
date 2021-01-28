@@ -12,41 +12,37 @@
 - <a href="#screen">페이지 스크린 샷</a>
 - <a href="#refer">참고 사이트</a>
 ---
-<br/>
-       
+<br/><br/> 
 ## <a name="projectintro">프로젝트 소개</a>
 - 프리랜서가 개인의 노동력을 등록하면, 필요한 이용자가 등록된 서비스를 조회하고 쉽게 이용할 수 있게 도와주는 **[프리랜서 마켓]** 을 제작하였습니다. 
 - 코로나 19로 인한 언택트 근무와 일자리 감소가 프리랜서 마켓의 확산을 촉진하고 있다고 판단하였습니다. 그래서 저희팀은 기존 프리랜서 사이트의 단점을 보완하고 기능을 확장한 사이트를 제작하였습니다.
 - 일을 구하고 싶은 프리랜서의 마음을 반영해서 '일 구하고 싶어' - '19시' 라고 프로젝트명을 정하였습니다. 
-   <br/>
-     
+<br/><br/> 
 ## <a name="teamintro">팀원 소개</a>
 팀명 : 디벨로퍼 되고시퍼    
 팀장 : 최문정    
 팀원 : 임소현 이다솜 이도현 김영재    
-       <br/>
-         
+<br/><br/>
 ## <a name="developsetting">개발 환경</a>
 <img width="916" alt="화면 캡처 2021-01-28 191626" src="https://user-images.githubusercontent.com/42430547/106123580-707e0980-619d-11eb-9366-90bb7e12e481.png">
-<br/>
+<br/><br/> 
 ## <a name="db">DB 설계</a>
 - ERD
 ![DB](https://user-images.githubusercontent.com/42430547/106124333-50027f00-619e-11eb-80b5-210dd789b003.png)
-   
-<br/>
+<br/><br/> 
 ## <a name="ui">UI 설계</a>
 - Use Case
 ![Usecase](https://user-images.githubusercontent.com/42430547/106124349-57c22380-619e-11eb-83c0-f8fde4ab09b8.png)
-<br/>
+<br/><br/> 
 ## <a name="function">주요 기능</a>
 - 메인 페이지에서 키워드로 서비스 검색
 - 선택한 주제로 서비스 정렬
 - 구매자와 판매자 간 채팅
 - 서비스 등록
-<br/>
+<br/><br/> 
 ## <a name="video">시연 영상</a>
 [![Watch the video](https://youtu.be/VX3RGAjYDy4) ](https://youtu.be/VX3RGAjYDy4) 
-<br/>
+<br/><br/> 
 ## <a name="screen">페이지 소개</a>
 - 메인페이지
 <img width="675" alt="1" src="https://user-images.githubusercontent.com/42430547/106127314-c8b70a80-61a1-11eb-99cd-3f5343b1af58.png">    
@@ -82,7 +78,7 @@
 <img width="675" alt="11" src="https://user-images.githubusercontent.com/42430547/106130733-12edbb00-61a5-11eb-9f51-6a8c2d88dbf2.png">     
 <img width="675" alt="12" src="https://user-images.githubusercontent.com/42430547/106130843-36b10100-61a5-11eb-83ec-c41a7b9c05a5.png">     
 
-<br/>
+<br/><br/> 
 ## <a name="refet">참고 사이트</a>
 [크몽] : https://kmong.com/
-<img width="400" alt="크몽" src="https://user-images.githubusercontent.com/42430547/106123925-de2a3580-619d-11eb-82ad-5cd237ddd198.png">
+
