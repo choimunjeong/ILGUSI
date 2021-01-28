@@ -90,6 +90,6 @@
 
 <br/><br/> 
 
-## <a name="refet">참고 사이트</a>
+## <a name="refer">참고 사이트</a>
 [크몽] : https://kmong.com/
 
