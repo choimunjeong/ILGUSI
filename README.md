@@ -26,24 +26,24 @@
 ## <a name="developsetting">개발 환경</a>
 <img width="916" alt="화면 캡처 2021-01-28 191626" src="https://user-images.githubusercontent.com/42430547/106123580-707e0980-619d-11eb-9366-90bb7e12e481.png">     
 <br/><br/> 
-## <a name="db">DB 설계</a>
-- ERD
+## <a name="db">DB 설계</a>     
+- ERD     
 ![DB](https://user-images.githubusercontent.com/42430547/106135249-01a7ad00-61ab-11eb-9311-827ba9018992.png)     
 <br/><br/>
-## <a name="ui">UI 설계</a>
-- Use Case
+## <a name="ui">UI 설계</a>     
+- Use Case     
 ![Usecase](https://user-images.githubusercontent.com/42430547/106135303-12f0b980-61ab-11eb-825b-be6dbe75c9f7.png)     
 <br/><br/>
-## <a name="function">주요 기능</a>
+## <a name="function">주요 기능</a>     
 - 메인 페이지에서 키워드로 서비스 검색
 - 선택한 주제로 서비스 정렬
 - 구매자와 판매자 간 채팅
 - 서비스 등록     
 <br/><br/>
-## <a name="video">시연 영상</a>
+## <a name="video">시연 영상</a>     
 [![Watch the video](https://youtu.be/VX3RGAjYDy4) ](https://youtu.be/VX3RGAjYDy4)      
 <br/><br/>
-## <a name="screen">페이지 소개</a>
+## <a name="screen">페이지 소개</a>     
 - 메인페이지
 <img width="450" alt="1" src="https://user-images.githubusercontent.com/42430547/106127314-c8b70a80-61a1-11eb-99cd-3f5343b1af58.png">    
      
@@ -54,7 +54,7 @@
 <img width="675" alt="3" src="https://user-images.githubusercontent.com/42430547/106127814-35320980-61a2-11eb-9ccd-9b2941710414.png">     
        
 - 서비스 등록 페이지
-<img width="675" alt="4" src="https://user-images.githubusercontent.com/42430547/106128014-66aad500-61a2-11eb-93b3-df2103555e9e.png">      
+<img width="450" alt="4" src="https://user-images.githubusercontent.com/42430547/106128014-66aad500-61a2-11eb-93b3-df2103555e9e.png">      
       
 - 판매자 소개 페이지
 <img width="675" alt="5" src="https://user-images.githubusercontent.com/42430547/106128491-c86b3f00-61a2-11eb-94f9-f5311a1793a1.png">     
