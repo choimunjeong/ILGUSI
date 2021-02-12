@@ -45,48 +45,59 @@
 
 ## <a name="screen">페이지 소개</a>     
 - 메인페이지
-<img width="450" alt="1" src="https://user-images.githubusercontent.com/42430547/106127314-c8b70a80-61a1-11eb-99cd-3f5343b1af58.png">    
+<p align="center">
+<img width="450" alt="1" src="https://user-images.githubusercontent.com/42430547/106127314-c8b70a80-61a1-11eb-99cd-3f5343b1af58.png">   </p> 
 <br/>
 
 - 서비스 조회 페이지
-<img width="450" alt="2" src="https://user-images.githubusercontent.com/42430547/106127556-0025b700-61a2-11eb-9a16-8793e4132735.png">     
+<p align="center">
+<img width="450" alt="2" src="https://user-images.githubusercontent.com/42430547/106127556-0025b700-61a2-11eb-9a16-8793e4132735.png">   </p> 
 <br/>
 
 - 서비스 상세 페이지
-<img width="675" alt="3" src="https://user-images.githubusercontent.com/42430547/106127814-35320980-61a2-11eb-9ccd-9b2941710414.png">     
+<p align="center">
+<img width="675" alt="3" src="https://user-images.githubusercontent.com/42430547/106127814-35320980-61a2-11eb-9ccd-9b2941710414.png">    </p> 
 <br/>
 
 - 서비스 등록 페이지
-<img width="450" alt="4" src="https://user-images.githubusercontent.com/42430547/106128014-66aad500-61a2-11eb-93b3-df2103555e9e.png">      
+<p align="center">
+<img width="450" alt="4" src="https://user-images.githubusercontent.com/42430547/106128014-66aad500-61a2-11eb-93b3-df2103555e9e.png">    </p>  
 <br/>
 
 - 판매자 소개 페이지
-<img width="675" alt="5" src="https://user-images.githubusercontent.com/42430547/106128491-c86b3f00-61a2-11eb-94f9-f5311a1793a1.png">     
+<p align="center">
+<img width="675" alt="5" src="https://user-images.githubusercontent.com/42430547/106128491-c86b3f00-61a2-11eb-94f9-f5311a1793a1.png">     </p>
 <br/>
 
 - 사용자 마이페이지(회원 정보 수정)
-<img width="675" alt="14" src="https://user-images.githubusercontent.com/42430547/106136983-6b28bb00-61ad-11eb-8bb2-49fce4deac41.png">       
+<p align="center">
+<img width="675" alt="14" src="https://user-images.githubusercontent.com/42430547/106136983-6b28bb00-61ad-11eb-8bb2-49fce4deac41.png">     </p>  
 <br/>
 
 - 사용자 마이페이지(찜한 서비스 내역)
-<img width="675" alt="7" src="https://user-images.githubusercontent.com/42430547/106128960-2ef05d00-61a3-11eb-8526-c1dd3714f7aa.png">      
+<p align="center">
+<img width="675" alt="7" src="https://user-images.githubusercontent.com/42430547/106128960-2ef05d00-61a3-11eb-8526-c1dd3714f7aa.png">      </p>
 <br/>
 
 - 사용자 마이페이지(거래 내역)
-<img width="675" alt="8" src="https://user-images.githubusercontent.com/42430547/106129287-74ad2580-61a3-11eb-9a2d-e05308c18f94.png">     
+<p align="center">
+<img width="675" alt="8" src="https://user-images.githubusercontent.com/42430547/106129287-74ad2580-61a3-11eb-9a2d-e05308c18f94.png">     </p>
 <br/>
 
 - 의뢰 게시판
-<img width="675" alt="9" src="https://user-images.githubusercontent.com/42430547/106129738-de2d3400-61a3-11eb-8cb3-95bffdfc5f66.png">      
+<p align="center">
+<img width="675" alt="9" src="https://user-images.githubusercontent.com/42430547/106129738-de2d3400-61a3-11eb-8cb3-95bffdfc5f66.png">      </p>
 <br/>
 
 - 채팅
-<img width="675" alt="10" src="https://user-images.githubusercontent.com/42430547/106130581-e174ef80-61a4-11eb-960c-6c45d88b9acd.png">      
+<p align="center">
+<img width="675" alt="10" src="https://user-images.githubusercontent.com/42430547/106130581-e174ef80-61a4-11eb-960c-6c45d88b9acd.png">      </p>
 <br/>
 
 - 관리자 페이지
+<p align="center">
 <img width="675" alt="11" src="https://user-images.githubusercontent.com/42430547/106130733-12edbb00-61a5-11eb-9f51-6a8c2d88dbf2.png">     
-<img width="675" alt="12" src="https://user-images.githubusercontent.com/42430547/106130843-36b10100-61a5-11eb-83ec-c41a7b9c05a5.png">     
+<img width="675" alt="12" src="https://user-images.githubusercontent.com/42430547/106130843-36b10100-61a5-11eb-83ec-c41a7b9c05a5.png">     </p>
 
 <br/><br/> 
 
